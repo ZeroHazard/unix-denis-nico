@@ -1,0 +1,1 @@
+Projet de unix exercice , sur le jeu finito
